@@ -1,6 +1,7 @@
 # Open Charging Community PKI
 
-The following three public keys define the fundamental 2/3 quorum.
+The following three [secp521r1](https://neuromancer.sk/std/nist/P-521) public keys define the fundamental 2/3 quorum.    
+The encoding is base64.
 
 ```
 Public Key A: BAB8pJPtTwPHgsb3xMdTXLq9kq6TzpPEVpVHkJNyOAthvMTYRK2tsXveD97P1yI5zAEb4yF+l5yjyJsB307DX5KNpwEznHYoH32bs30LnipUmJ88ldN4M5N6Helijc65aRCqAbfr1kUVaOQjLvTYWOx8AopRhFLyrWEB2lH5b/7tXJpf+w==
